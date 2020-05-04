@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e71cbfd7-379b-46de-bdad-1ba5b2084872" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScreenUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameInitializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/761F9734-C258-49E0-9710-35A52DAA553C/54/ddfdad93/Input.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/56D97623-D556-49FE-AEC4-09BBD2AEC743/bd/f8443ccb/CircleCollider2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/761F9734-C258-49E0-9710-35A52DAA553C/8f/d1adaff4/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/761F9734-C258-49E0-9710-35A52DAA553C/bb/49ffe20e/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ship.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bSU73SarrPm5tgs9K6ynZvIES6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="77639">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="77639" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e71cbfd7-379b-46de-bdad-1ba5b2084872" name="Default Changelist" comment="" />
+      <created>1588624820786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588624820786</updated>
+      <workItem from="1588624826224" duration="6956000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="659" y="242" key="#xdebugger.evaluate" timestamp="1588629161606">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="659" y="242" key="#xdebugger.evaluate/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588629161606" />
+    <state width="1750" height="341" key="GridCell.Tab.0.bottom" timestamp="1588628768009">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628768009" />
+    <state width="1750" height="341" key="GridCell.Tab.0.center" timestamp="1588628768008">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628768008" />
+    <state width="1750" height="341" key="GridCell.Tab.0.left" timestamp="1588628768008">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628768008" />
+    <state width="1750" height="341" key="GridCell.Tab.0.right" timestamp="1588628768008">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628768008" />
+    <state width="1750" height="341" key="GridCell.Tab.1.bottom" timestamp="1588628788793">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628788793" />
+    <state width="1750" height="341" key="GridCell.Tab.1.center" timestamp="1588628788792">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628788792" />
+    <state width="1750" height="341" key="GridCell.Tab.1.left" timestamp="1588628788792">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628788792" />
+    <state width="1750" height="341" key="GridCell.Tab.1.right" timestamp="1588628788792">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628788792" />
+    <state width="1750" height="341" key="GridCell.Tab.2.bottom" timestamp="1588628767948">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.2.bottom/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628767948" />
+    <state width="1750" height="341" key="GridCell.Tab.2.center" timestamp="1588628767948">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.2.center/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628767948" />
+    <state width="1750" height="341" key="GridCell.Tab.2.left" timestamp="1588628767948">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.2.left/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628767948" />
+    <state width="1750" height="341" key="GridCell.Tab.2.right" timestamp="1588628767948">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.2.right/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628767948" />
+    <state width="1750" height="341" key="GridCell.Tab.3.bottom" timestamp="1588628767949">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.3.bottom/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628767949" />
+    <state width="1750" height="341" key="GridCell.Tab.3.center" timestamp="1588628767949">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.3.center/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628767949" />
+    <state width="1750" height="341" key="GridCell.Tab.3.left" timestamp="1588628767949">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.3.left/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628767949" />
+    <state width="1750" height="341" key="GridCell.Tab.3.right" timestamp="1588628767949">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="341" key="GridCell.Tab.3.right/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1588628767949" />
+  </component>
+</project>
